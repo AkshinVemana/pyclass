@@ -1,2 +1,1 @@
-# pyclass
-Examples from HD OM python class
+These are some examples from the HD OM python class. 
