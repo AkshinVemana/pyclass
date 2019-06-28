@@ -5,13 +5,14 @@ date: 6/25/2019 3:22 PM
 """
 
 import math
+
 """ MACAW """
-macawCarryPercentage = 1/3
+macawCarryPercentage = 1 / 3
 coconutWeight = 1450
 macawWeight = 900
 
 macawCarryWeight = macawCarryPercentage * macawWeight
-macawsPerCoconut = coconutWeight / macawCarryWeight # = 1450 / (900/3)
+macawsPerCoconut = coconutWeight / macawCarryWeight  # = 1450 / (900/3)
 print(math.ceil(macawsPerCoconut))
 
 """

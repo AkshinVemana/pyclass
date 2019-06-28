@@ -5,9 +5,9 @@ date: 6/26/2019 9:09 AM
 """
 
 # "One line at a time"
-print("Elizabeth", end = ', ')
-print("Emily", end = ', ')
-print("Bob", end = ', ')
+print("Elizabeth", end=', ')
+print("Emily", end=', ')
+print("Bob", end=', ')
 print("Antonio")
 
 # "ASCII Art"
